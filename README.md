@@ -1,7 +1,3 @@
 # Techinal Interview Practice Problems
 
-## Practicing problem solving and communication strategies with tech interview style questions.
-
-Need to add test inputs.
-
-[LeetCode](https://leetcode.com/)
+### Practicing problem solving and communication strategies with tech interview style questions from sources such as LeetCode and Exercism.
